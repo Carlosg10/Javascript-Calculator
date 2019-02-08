@@ -27,7 +27,7 @@ body {
   width: 200px;
 }
 
-.colum {
+.column {
   display: table-cell;
 }
 
@@ -41,7 +41,7 @@ body {
 }
 
 #calc-display-val {
-  height: 80px color: #fff;
+  height: 80px; color: #fff;
   text-align: right;
   border-left: 1px solid gray;
   border-right: 1px solid gray;
@@ -69,5 +69,5 @@ h1 {
 }
 
 #calc-parent {
-    margin-left: calc(50% - 100px);
+  margin-left: calc(50% - 100px);
 }
